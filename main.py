@@ -28,4 +28,10 @@ Going to write the instruction for how to run GitHub if you happen to forget it
 5. Click the plus sign and write your comment and click "Ctrl + Enter" (Win) or "Command + Enter" (Mac)
 
 6. Then click the 3 dots (...) and press Push 
+
+HOW TO UPDATE CODE
+
+1. Press Ctrl + Shift + P or Command + Shift + P
+2. Search Git Merge
+3. Choose the orgin/main or origin/head, and it should update
 """
